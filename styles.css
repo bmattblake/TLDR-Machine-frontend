@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'MuseoSans_700';
+    src: url('src/fonts/MuseoSans_700-webfont.woff2') format('woff2'),
+         url('src/fonts/MuseoSans_700-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h1 {
+    font-family: MuseoSans_700;
+}
